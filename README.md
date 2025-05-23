@@ -1,8 +1,6 @@
 # analisis-sensores-cultivo
 Análisis de sensores agrícolas con Python, visualización y alertas inteligentes.
 
-Análisis de Sensores de Cultivo
-
 Este proyecto implementa un análisis integral de datos agrícolas usando Python. A través del uso de sensores de humedad, temperatura, pH y otros factores del suelo, desarrollamos herramientas para la **visualización de variables críticas**, **detección de patrones** y **generación de alertas inteligentes** que optimizan la toma de decisiones en entornos agrícolas.
 
  Objetivos del proyecto
