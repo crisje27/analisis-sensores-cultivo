@@ -25,7 +25,7 @@ Este proyecto implementa un análisis integral de datos agrícolas usando Python
 
 Archivos incluidos
 
-- `analisis_cultivo_cristian_rodriguez.ipynb`: Notebook completo con código y explicaciones.
+- `analisis_cultivo_actualizado_con_ph.ipynb`: Notebook completo con código y explicaciones.
 - `sensores_cultivo.csv`: Base de datos de sensores simulada.
 - `README.md`: Documentación del proyecto.
 
