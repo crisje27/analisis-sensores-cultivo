@@ -20,8 +20,8 @@ Este proyecto implementa un análisis integral de datos agrícolas usando Python
 - **Automatización de alertas** con condicionales simples
 
   Ejemplo de visualización
-
-![Visualización de ejemplo](https://github.com/crisje27/analisis-sensores-cultivo/blob/main/ejemplo_visualizacion.png)
+  
+![ejemplo_visualizacion](https://github.com/user-attachments/assets/db4c2835-cade-41b9-9281-97b6b9b8bccd)
 
 Archivos incluidos
 
